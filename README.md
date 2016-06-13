@@ -7,7 +7,7 @@
 
 ## Blogposts
 
-* [Colah's Blog](http://colah.github.io/)
+* [Christopher Olah's Blog](http://colah.github.io/)
 * [Chris Moody's Blogpost](http://multithreaded.stitchfix.com/blog/2015/03/11/word-is-worth-a-thousand-vectors/)
 * [Karpathy's Blog](http://karpathy.github.io/)
 
